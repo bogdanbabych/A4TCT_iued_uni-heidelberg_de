@@ -1,4 +1,3 @@
-git add --all
+git add *
 git commit -m "s010x development"
-git push -u origin master
-
+git push
