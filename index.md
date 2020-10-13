@@ -13,4 +13,4 @@ permalink: /
 
 ![Image](/assets/img/TTC-logo02-22.12.50.png)
 
-The Department of Translation, Communication and Technology is founded in 2020 with an aim to develop understanding of the technological impact on translation process.
+The Department of Translation, Communication and Technology has been founded in 2020 with an aim to develop understanding of the technological impact on translation process.
