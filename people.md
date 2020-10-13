@@ -9,6 +9,6 @@ nav_order: 2
 
 [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md)
 
-### Team at the Department of Translation, Communication and Technology
+### Our team
 
 Under construction.
