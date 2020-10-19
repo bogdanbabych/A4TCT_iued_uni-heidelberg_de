@@ -9,7 +9,7 @@ permalink: /
 ## Department of Translation, Communication and Technology
 ### Institute for Translation and Interpreting, Heidelberg University
 
-[Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](/de_index.html) [![Image](uk_l_flag.png)](/uk_index.html)
+[Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
 ![Image](/assets/img/A4TCT-logo02-22.12.50.png)
 
@@ -17,4 +17,4 @@ The Department of Translation, Communication and Technology has been founded in 
 
 #### Webpage in other languages
 
-![Image](en_l_flag.png) en [![Image](de_l_flag.png)](/de_index.html) [de](/de_index.md) [![Image](uk_l_flag.png)](/uk_index.html) [uk](/uk_index.md)
+![Image](en_l_flag.png) en [![Image](de_l_flag.png)](de_index.html) [de](de_index.md) [![Image](uk_l_flag.png)](uk_index.html) [uk](uk_index.md)
