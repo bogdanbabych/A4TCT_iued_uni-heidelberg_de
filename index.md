@@ -12,7 +12,7 @@ permalink: /
 
 [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
-![Image](/assets/img/A4TCT-logo02-22.12.50.png)
+![Image](assets/img/A4TCT-logo02-22.12.50.png)
 
 
 #### Shaping the future of translation
