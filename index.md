@@ -12,8 +12,7 @@ permalink: /
 
 [Home](index.md) | [Team](people.md) | [Research](research.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](de_index.html) [![Image](uk_l_flag.png)](uk_index.html)
 
-![Image](assets/img/A4TCT-logo02-22.12.50.png)
-
+![Image](assets/img/A4TCT-logo03-2020-10-23--15.20.23.png)
 
 #### Shaping the future of translation
 
@@ -24,6 +23,8 @@ Our research and technology development engage with the changing role of transla
 Our teaching addresses industry's demand for a new generation of translation and technology specialists, who have excellent language skills, but can also become advisers for their teams on the process management and technology development, 'connecting the dots' in translation workflows. They should be able to evaluate usability of translation tools, the efficiency of the workflow, communicate linguistic requirements and design specifications for next generation of translation technologies, combine necessary components and approaches, linguistic specifications.  For example, they could design a simplified technical controlled language for their domain, propose technological linguistic solutions for their team, e.g., on automatic authoring and conformity checks in the controlled language. They would be able to evaluate MT quality, post-editing effort, usability, for a specific project, client or domain, to systematically identify errors and to design automated correction procedures for error-critical areas of MT, suggest ways to improve the process via customising MT, multi-engine MT combination, optimising the design of the workflow, build and manage relevant linguistic resources for low-resourced language or domains.
 
 Nowadays technological changes in translation industry are often driven by market demands; however, this may result in ad-hoc quick fixes and technical shortcuts, which although may improve productivity in the short term, are hard to manage and develop further. Our task is to create a systematic theoretically-grounded approach to creating, using and evaluating translation technologies, to build a coherent scientific basis for shaping these technological changes in the future.
+
+![Image](assets/img/A4TCT-logo02-22.12.50.png)
 
 
 #### Webpage in other languages
