@@ -1,3 +1,3 @@
 git add .
-git commit -m "s010x development"
+git commit -a -m "s010x development"
 git push
