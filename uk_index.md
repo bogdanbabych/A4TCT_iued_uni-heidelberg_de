@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ukrainian
-nav_order: 11
+nav_order: 21
 ---
 
 ## Відділення перекладу, комунікації та технології
